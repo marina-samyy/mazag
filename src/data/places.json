@@ -1,0 +1,451 @@
+[
+  {
+    "id": "alexandria-corniche",
+    "name": "Alexandria Corniche",
+    "governorate": "Alexandria",
+    "region": "Mediterranean coast",
+    "moodIds": [
+      "nostalgic"
+    ],
+    "summary": "A long seafront promenade where the city meets the Mediterranean.",
+    "description": "The Corniche is Alexandria's front porch. Families, fishermen and couples all end up here sooner or later, looking at the same sea. It is less a sight than a habit, which is exactly why it suits a nostalgic mood.",
+    "reasonsToVisit": [
+      "Walk the waterfront as the light turns golden",
+      "Stop at a seaside café for tea or coffee",
+      "Use it as an easy base for Alexandria's other landmarks"
+    ],
+    "visitorTips": [
+      "Evenings are the most pleasant time to stroll",
+      "Pair it with a visit to Qaitbay Citadel nearby"
+    ],
+    "mapQuery": "Alexandria Corniche, Alexandria, Egypt",
+    "images": [
+      {
+        "src": "/images/places/alexandria-corniche-1.svg",
+        "alt": "Alexandria Corniche in Alexandria, Egypt"
+      },
+      {
+        "src": "/images/places/alexandria-corniche-2.svg",
+        "alt": "Another view of Alexandria Corniche"
+      }
+    ],
+    "wikiTitle": "Alexandria"
+  },
+  {
+    "id": "qaitbay-citadel",
+    "name": "Qaitbay Citadel",
+    "governorate": "Alexandria",
+    "region": "Mediterranean coast",
+    "moodIds": [
+      "nostalgic"
+    ],
+    "summary": "A 15th-century fortress at the edge of the harbour.",
+    "description": "Built by Sultan Qaitbay, the citadel guards the harbour entrance on ground traditionally linked to the ancient Pharos lighthouse. From its walls you can look back at the whole curve of the bay.",
+    "reasonsToVisit": [
+      "Explore a medieval sea fortress",
+      "See the harbour and the city skyline from the walls",
+      "Watch fishing boats come and go"
+    ],
+    "visitorTips": [
+      "Bring sun protection; there is little shade on the walls",
+      "Check current opening hours locally before you go"
+    ],
+    "mapQuery": "Qaitbay Citadel, Alexandria, Egypt",
+    "images": [
+      {
+        "src": "/images/places/qaitbay-citadel-1.svg",
+        "alt": "Qaitbay Citadel in Alexandria, Egypt"
+      },
+      {
+        "src": "/images/places/qaitbay-citadel-2.svg",
+        "alt": "Another view of Qaitbay Citadel"
+      }
+    ],
+    "wikiTitle": "Citadel of Qaitbay"
+  },
+  {
+    "id": "bibliotheca-alexandrina",
+    "name": "Bibliotheca Alexandrina",
+    "governorate": "Alexandria",
+    "region": "Mediterranean coast",
+    "moodIds": [
+      "nostalgic"
+    ],
+    "summary": "A modern library that honours the ancient Library of Alexandria.",
+    "description": "The Bibliotheca Alexandrina was created to revive the spirit of the ancient Library. The building itself, with its tilted disc roof facing the sea, is worth the visit even if you never open a book.",
+    "reasonsToVisit": [
+      "See striking contemporary architecture by the sea",
+      "Visit the reading hall and exhibitions",
+      "A thoughtful stop for book lovers"
+    ],
+    "visitorTips": [
+      "Check current visiting rules and ticketing locally",
+      "Allow time to see more than the main hall"
+    ],
+    "mapQuery": "Bibliotheca Alexandrina, Alexandria, Egypt",
+    "images": [
+      {
+        "src": "/images/places/bibliotheca-alexandrina-1.svg",
+        "alt": "Bibliotheca Alexandrina in Alexandria, Egypt"
+      },
+      {
+        "src": "/images/places/bibliotheca-alexandrina-2.svg",
+        "alt": "Another view of Bibliotheca Alexandrina"
+      }
+    ],
+    "wikiTitle": "Bibliotheca Alexandrina"
+  },
+  {
+    "id": "montaza-gardens",
+    "name": "Montaza Palace Gardens",
+    "governorate": "Alexandria",
+    "region": "Mediterranean coast",
+    "moodIds": [
+      "nostalgic"
+    ],
+    "summary": "Royal palace grounds with gardens and sea views.",
+    "description": "On the eastern side of the city, the Montaza grounds are a leafy retreat of palms, lawns and cliffs above the water. It feels like a postcard from an older, slower Alexandria.",
+    "reasonsToVisit": [
+      "Walk through shaded gardens above the sea",
+      "Enjoy views over the water",
+      "A relaxed picnic-style outing"
+    ],
+    "visitorTips": [
+      "The palace building itself may not be open to visitors, so check locally",
+      "Go on a clear day for the best sea views"
+    ],
+    "mapQuery": "Montaza Palace Gardens, Alexandria, Egypt",
+    "images": [
+      {
+        "src": "/images/places/montaza-gardens-1.svg",
+        "alt": "Montaza Palace Gardens in Alexandria, Egypt"
+      },
+      {
+        "src": "/images/places/montaza-gardens-2.svg",
+        "alt": "Another view of Montaza Palace Gardens"
+      }
+    ],
+    "wikiTitle": "Montaza Palace"
+  },
+  {
+    "id": "siwa-oasis",
+    "name": "Siwa Oasis",
+    "governorate": "Matrouh",
+    "region": "Western Desert",
+    "moodIds": [
+      "adventurous",
+      "calm"
+    ],
+    "summary": "A remote oasis of palms, salt lakes and mud-brick ruins.",
+    "description": "Siwa sits far out in the Western Desert, closer to Libya than to Cairo. Its identity is distinct: its own Amazigh language, its own architecture, its own pace. It rewards anyone willing to make the long journey.",
+    "reasonsToVisit": [
+      "Float or wade in the salt lakes",
+      "Explore the old mud-brick fortress town of Shali",
+      "Visit the ruins linked to the ancient Oracle of Amun"
+    ],
+    "visitorTips": [
+      "Plan for a long trip from the main cities",
+      "Cooler months are generally more comfortable for exploring"
+    ],
+    "mapQuery": "Siwa Oasis, Matrouh, Egypt",
+    "images": [
+      {
+        "src": "/images/places/siwa-oasis-1.svg",
+        "alt": "Siwa Oasis in Matrouh, Egypt"
+      },
+      {
+        "src": "/images/places/siwa-oasis-2.svg",
+        "alt": "Another view of Siwa Oasis"
+      }
+    ],
+    "wikiTitle": "Siwa Oasis"
+  },
+  {
+    "id": "white-desert",
+    "name": "White Desert National Park",
+    "governorate": "New Valley",
+    "region": "Western Desert",
+    "moodIds": [
+      "adventurous"
+    ],
+    "summary": "Chalk rock formations carved by wind into surreal shapes.",
+    "description": "Out past Farafra, the desert floor is dotted with pale chalk sculptures that look like mushrooms, icebergs and animals. Camping here under the stars is the classic way to experience it.",
+    "reasonsToVisit": [
+      "See wind-sculpted chalk formations",
+      "Camp overnight in the desert",
+      "Watch the colours change from sunset to sunrise"
+    ],
+    "visitorTips": [
+      "Go with an experienced local operator, not alone",
+      "Nights can be cold, so pack warm layers"
+    ],
+    "mapQuery": "White Desert National Park, New Valley, Egypt",
+    "images": [
+      {
+        "src": "/images/places/white-desert-1.svg",
+        "alt": "White Desert National Park in New Valley, Egypt"
+      },
+      {
+        "src": "/images/places/white-desert-2.svg",
+        "alt": "Another view of White Desert National Park"
+      }
+    ],
+    "wikiTitle": "White Desert National Park"
+  },
+  {
+    "id": "mount-sinai",
+    "name": "Mount Sinai and Saint Catherine's Monastery",
+    "governorate": "South Sinai",
+    "region": "Sinai Peninsula",
+    "moodIds": [
+      "adventurous"
+    ],
+    "summary": "A mountain pilgrimage and one of the world's oldest working monasteries.",
+    "description": "Mount Sinai is a place of pilgrimage for several faiths. Many visitors climb in the dark to reach the summit for sunrise, then visit Saint Catherine's Monastery at the foot of the mountain.",
+    "reasonsToVisit": [
+      "Hike to the summit for sunrise",
+      "Visit Saint Catherine's Monastery, a UNESCO World Heritage Site",
+      "Experience the rugged granite landscape of South Sinai"
+    ],
+    "visitorTips": [
+      "Bring a headlamp and warm clothing for the night climb",
+      "Check monastery visiting times before you travel"
+    ],
+    "mapQuery": "Mount Sinai and Saint Catherine's Monastery, South Sinai, Egypt",
+    "images": [
+      {
+        "src": "/images/places/mount-sinai-1.svg",
+        "alt": "Mount Sinai and Saint Catherine's Monastery in South Sinai, Egypt"
+      },
+      {
+        "src": "/images/places/mount-sinai-2.svg",
+        "alt": "Another view of Mount Sinai and Saint Catherine's Monastery"
+      }
+    ],
+    "wikiTitle": "Mount Sinai"
+  },
+  {
+    "id": "wadi-el-hitan",
+    "name": "Wadi El Hitan (Valley of the Whales)",
+    "governorate": "Faiyum",
+    "region": "Western Desert",
+    "moodIds": [
+      "adventurous"
+    ],
+    "summary": "A desert valley of fossilised early whales, listed by UNESCO.",
+    "description": "Millions of years ago this dry valley was under water. Today you can walk a marked trail among the skeletons of early whales lying in the sand, a rare chance to see evolution laid out in the open air.",
+    "reasonsToVisit": [
+      "Walk among fossilised whale skeletons",
+      "See a UNESCO World Heritage Site",
+      "Pair it with other desert stops in the Faiyum"
+    ],
+    "visitorTips": [
+      "Bring water and sun protection",
+      "A local guide or driver is useful for the desert tracks"
+    ],
+    "mapQuery": "Wadi El Hitan (Valley of the Whales), Faiyum, Egypt",
+    "images": [
+      {
+        "src": "/images/places/wadi-el-hitan-1.svg",
+        "alt": "Wadi El Hitan (Valley of the Whales) in Faiyum, Egypt"
+      },
+      {
+        "src": "/images/places/wadi-el-hitan-2.svg",
+        "alt": "Another view of Wadi El Hitan (Valley of the Whales)"
+      }
+    ],
+    "wikiTitle": "Wadi Al-Hitan"
+  },
+  {
+    "id": "philae-temple",
+    "name": "Philae Temple",
+    "governorate": "Aswan",
+    "region": "Upper Egypt",
+    "moodIds": [
+      "romantic"
+    ],
+    "summary": "A temple of Isis on an island, reached by boat.",
+    "description": "Philae was moved stone by stone to a new island when the old one was flooded by the Aswan dams. Arriving by boat across still water, with the temple rising ahead, is one of the most atmospheric entrances in Egypt.",
+    "reasonsToVisit": [
+      "Take a short boat ride to the island",
+      "Admire the temple dedicated to Isis",
+      "Visit in soft evening or morning light"
+    ],
+    "visitorTips": [
+      "Boat transfers are part of the visit; confirm arrangements locally",
+      "Check whether the evening sound-and-light show is running"
+    ],
+    "mapQuery": "Philae Temple, Aswan, Egypt",
+    "images": [
+      {
+        "src": "/images/places/philae-temple-1.svg",
+        "alt": "Philae Temple in Aswan, Egypt"
+      },
+      {
+        "src": "/images/places/philae-temple-2.svg",
+        "alt": "Another view of Philae Temple"
+      }
+    ],
+    "wikiTitle": "Philae"
+  },
+  {
+    "id": "elephantine-island",
+    "name": "Elephantine Island",
+    "governorate": "Aswan",
+    "region": "Upper Egypt",
+    "moodIds": [
+      "romantic"
+    ],
+    "summary": "A quiet Nile island with ruins and Nubian villages.",
+    "description": "In the middle of the river at Aswan, Elephantine feels like a small, separate world. Narrow lanes, colourful houses and the sound of water make it ideal for a long, unhurried walk together.",
+    "reasonsToVisit": [
+      "Wander through Nubian village lanes",
+      "See ancient ruins on the island",
+      "Take a felucca around the island at sunset"
+    ],
+    "visitorTips": [
+      "Reach it by a short boat ride from the Aswan waterfront",
+      "Respect local customs when photographing residents"
+    ],
+    "mapQuery": "Elephantine Island, Aswan, Egypt",
+    "images": [
+      {
+        "src": "/images/places/elephantine-island-1.svg",
+        "alt": "Elephantine Island in Aswan, Egypt"
+      },
+      {
+        "src": "/images/places/elephantine-island-2.svg",
+        "alt": "Another view of Elephantine Island"
+      }
+    ],
+    "wikiTitle": "Elephantine"
+  },
+  {
+    "id": "luxor-temple",
+    "name": "Luxor Temple",
+    "governorate": "Luxor",
+    "region": "Upper Egypt",
+    "moodIds": [
+      "romantic"
+    ],
+    "summary": "A temple in the middle of the city, glowing at night.",
+    "description": "Unlike most ancient sites, Luxor Temple sits right in the town, beside the Nile corniche. After dark, when the columns are lit, it becomes one of the most beautiful evening walks in Egypt.",
+    "reasonsToVisit": [
+      "See the temple lit up after dark",
+      "Walk the Nile corniche beside it",
+      "Combine it with a sunset felucca ride"
+    ],
+    "visitorTips": [
+      "Evening visits are especially atmospheric",
+      "Check current opening hours locally"
+    ],
+    "mapQuery": "Luxor Temple, Luxor, Egypt",
+    "images": [
+      {
+        "src": "/images/places/luxor-temple-1.svg",
+        "alt": "Luxor Temple in Luxor, Egypt"
+      },
+      {
+        "src": "/images/places/luxor-temple-2.svg",
+        "alt": "Another view of Luxor Temple"
+      }
+    ],
+    "wikiTitle": "Luxor Temple"
+  },
+  {
+    "id": "dahab",
+    "name": "Dahab",
+    "governorate": "South Sinai",
+    "region": "Sinai Peninsula",
+    "moodIds": [
+      "calm"
+    ],
+    "summary": "A laid-back Red Sea town between mountains and water.",
+    "description": "Dahab moves slowly. Cafés line the waterfront, the mountains sit behind, and the sea is right there. It is known for snorkelling and diving, but doing nothing very well is also a perfectly good plan.",
+    "reasonsToVisit": [
+      "Sit by the water with a book",
+      "Snorkel or dive in clear Red Sea water",
+      "Take a quiet walk along the bay"
+    ],
+    "visitorTips": [
+      "Water conditions vary, so ask local operators about safety",
+      "Spring and autumn are often pleasant"
+    ],
+    "mapQuery": "Dahab, South Sinai, Egypt",
+    "images": [
+      {
+        "src": "/images/places/dahab-1.svg",
+        "alt": "Dahab in South Sinai, Egypt"
+      },
+      {
+        "src": "/images/places/dahab-2.svg",
+        "alt": "Another view of Dahab"
+      }
+    ],
+    "wikiTitle": "Dahab"
+  },
+  {
+    "id": "wadi-el-rayan",
+    "name": "Wadi El Rayan Protected Area",
+    "governorate": "Faiyum",
+    "region": "Western Desert",
+    "moodIds": [
+      "calm"
+    ],
+    "summary": "Lakes, waterfalls and dunes within a short drive of Cairo.",
+    "description": "A surprising mix of desert and water: lakes ringed with sand dunes, plus one of Egypt's few natural-looking waterfalls. It is peaceful, open and easy to reach for a day trip.",
+    "reasonsToVisit": [
+      "Sit by the lakes and watch the dunes",
+      "See the waterfalls",
+      "Easy day trip for a quiet reset"
+    ],
+    "visitorTips": [
+      "Bring your own water and snacks",
+      "Go early to avoid weekend crowds"
+    ],
+    "mapQuery": "Wadi El Rayan Protected Area, Faiyum, Egypt",
+    "images": [
+      {
+        "src": "/images/places/wadi-el-rayan-1.svg",
+        "alt": "Wadi El Rayan Protected Area in Faiyum, Egypt"
+      },
+      {
+        "src": "/images/places/wadi-el-rayan-2.svg",
+        "alt": "Another view of Wadi El Rayan Protected Area"
+      }
+    ],
+    "wikiTitle": "Wadi El Rayan"
+  },
+  {
+    "id": "lake-qarun",
+    "name": "Lake Qarun",
+    "governorate": "Faiyum",
+    "region": "Western Desert",
+    "moodIds": [
+      "calm"
+    ],
+    "summary": "A large inland lake framed by desert and farmland.",
+    "description": "Lake Qarun is one of the oldest lakes in the world, and its shores are a good spot for birdwatching and slow lakeside afternoons. Nearby villages add pottery, cafés and easy walks.",
+    "reasonsToVisit": [
+      "Watch birds along the shore",
+      "Enjoy a slow lakeside afternoon",
+      "Combine with a day in the Faiyum villages"
+    ],
+    "visitorTips": [
+      "Check seasons if birdwatching is your goal",
+      "A local driver makes the Faiyum easier to explore"
+    ],
+    "mapQuery": "Lake Qarun, Faiyum, Egypt",
+    "images": [
+      {
+        "src": "/images/places/lake-qarun-1.svg",
+        "alt": "Lake Qarun in Faiyum, Egypt"
+      },
+      {
+        "src": "/images/places/lake-qarun-2.svg",
+        "alt": "Another view of Lake Qarun"
+      }
+    ],
+    "wikiTitle": "Lake Qarun"
+  }
+]

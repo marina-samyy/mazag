@@ -1,0 +1,54 @@
+[
+  {
+    "id": "nostalgic",
+    "name": "Nostalgic",
+    "arabicName": "حنين",
+    "tagline": "Sea air, old reels and a song your grandparents knew.",
+    "description": "Nostalgic is Egypt in faded sepia: a salt-stained promenade, a harbour fortress, a film about growing up in a city that no longer exists, and a voice that still stops a room. Come here to slow down and remember.",
+    "keywords": ["Classic cinema", "Mediterranean coast", "Memories"],
+    "heroImage": "/images/moods/nostalgic.svg",
+    "heroAlt": "Alexandria seafront in warm evening light",
+    "placeIds": ["alexandria-corniche", "qaitbay-citadel", "bibliotheca-alexandrina", "montaza-gardens"],
+    "movieId": "alexandria-why",
+    "musicId": "enta-omri"
+  },
+  {
+    "id": "adventurous",
+    "name": "Adventurous",
+    "arabicName": "مغامرة",
+    "tagline": "Sand in your boots and no fixed plan.",
+    "description": "Adventurous is the Egypt of long desert roads, oases that appear out of nowhere, mountains climbed in the dark and fossils older than any pharaoh. Pack light, bring water and keep going.",
+    "keywords": ["Deserts and oases", "Hiking", "Discovery"],
+    "heroImage": "/images/moods/adventurous.svg",
+    "heroAlt": "Chalk rock formations in the White Desert at sunset",
+    "placeIds": ["siwa-oasis", "white-desert", "mount-sinai", "wadi-el-hitan"],
+    "movieId": "the-mummy-1999",
+    "musicId": "nour-el-ain"
+  },
+  {
+    "id": "romantic",
+    "name": "Romantic",
+    "arabicName": "رومانسية",
+    "tagline": "Lantern light, slow water and someone to share it with.",
+    "description": "Romantic is the Nile after sunset: a temple on an island, a quiet boat ride past palm trees, columns lit gold at night. Dress up a little, take your time and let the river set the pace.",
+    "keywords": ["The Nile", "Temples at night", "Golden hour"],
+    "heroImage": "/images/moods/romantic.svg",
+    "heroAlt": "Felucca sailing on the Nile at sunset",
+    "placeIds": ["philae-temple", "elephantine-island", "luxor-temple"],
+    "movieId": "nahr-el-hob",
+    "musicId": "tamally-maak"
+  },
+  {
+    "id": "calm",
+    "name": "Calm",
+    "arabicName": "هدوء",
+    "tagline": "Space to breathe, water to look at, nowhere to be.",
+    "description": "Calm is Egypt with the volume turned down: lakes and waterfalls in the Faiyum, a Red Sea town that moves at its own speed, salt lakes under palm trees. Switch off notifications and stay a while.",
+    "keywords": ["Lakes and sea", "Quiet landscapes", "Slow travel"],
+    "heroImage": "/images/moods/calm.svg",
+    "heroAlt": "Still lake with palm trees and soft morning light",
+    "placeIds": ["dahab", "wadi-el-rayan", "lake-qarun", "siwa-oasis"],
+    "movieId": "al-mummia",
+    "musicId": "zay-el-hawa"
+  }
+]

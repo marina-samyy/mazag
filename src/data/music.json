@@ -1,0 +1,46 @@
+[
+  {
+    "id": "enta-omri",
+    "title": "Enta Omri",
+    "arabicTitle": "إنت عمري",
+    "artist": "Umm Kulthum",
+    "artistArabic": "أم كلثوم",
+    "year": 1964,
+    "note": "Composed by Mohamed Abdel Wahab. A long, slow love song that many Egyptian families still know by heart.",
+    "searchQuery": "Umm Kulthum Enta Omri",
+    "youtubeId": null
+  },
+  {
+    "id": "nour-el-ain",
+    "title": "Nour El Ain",
+    "arabicTitle": "نور العين",
+    "artist": "Amr Diab",
+    "artistArabic": "عمرو دياب",
+    "year": 1996,
+    "note": "The bright, driving title track of Amr Diab's 1996 album. Good for the road.",
+    "searchQuery": "Amr Diab Nour El Ain",
+    "youtubeId": null
+  },
+  {
+    "id": "tamally-maak",
+    "title": "Tamally Maak",
+    "arabicTitle": "تملى معاك",
+    "artist": "Amr Diab",
+    "artistArabic": "عمرو دياب",
+    "year": 2000,
+    "note": "A warm, easy love song that became one of the best-known Egyptian pop tracks.",
+    "searchQuery": "Amr Diab Tamally Maak",
+    "youtubeId": null
+  },
+  {
+    "id": "zay-el-hawa",
+    "title": "Zay El Hawa",
+    "arabicTitle": "زي الهوا",
+    "artist": "Abdel Halim Hafez",
+    "artistArabic": "عبد الحليم حافظ",
+    "year": null,
+    "note": "A gentle, unhurried song from the classic era of Egyptian music.",
+    "searchQuery": "Abdel Halim Hafez Zay El Hawa",
+    "youtubeId": null
+  }
+]

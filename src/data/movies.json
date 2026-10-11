@@ -1,0 +1,54 @@
+[
+  {
+    "id": "alexandria-why",
+    "title": "Alexandria… Why?",
+    "arabicTitle": "إسكندرية ليه؟",
+    "year": 1979,
+    "director": "Youssef Chahine",
+    "connection": "Egyptian film",
+    "poster": "/images/posters/alexandria-why.svg",
+    "posterAlt": "Poster of the film Alexandria… Why?",
+    "synopsis": "A semi-autobiographical portrait of Alexandria during the Second World War, seen through a young man who lives for the cinema. It is the film to watch before you walk the Corniche.",
+    "wikiTitle": "Alexandria... Why?",
+    "tmdbQuery": "Alexandria Why"
+  },
+  {
+    "id": "the-mummy-1999",
+    "title": "The Mummy",
+    "arabicTitle": null,
+    "year": 1999,
+    "director": "Stephen Sommers",
+    "connection": "International film set in Egypt",
+    "poster": "/images/posters/the-mummy-1999.svg",
+    "posterAlt": "Poster of the film The Mummy",
+    "synopsis": "A swashbuckling treasure hunt through a lost city, a curse and a race across the Egyptian desert. Not a documentary, but it captures the thrill of going somewhere nobody has been.",
+    "wikiTitle": "The Mummy (1999 film)",
+    "tmdbQuery": "The Mummy"
+  },
+  {
+    "id": "nahr-el-hob",
+    "title": "River of Love (Nahr el-Hob)",
+    "arabicTitle": "نهر الحب",
+    "year": 1960,
+    "director": "Ezz El-Dine Zulficar",
+    "connection": "Egyptian film",
+    "poster": "/images/posters/nahr-el-hob.svg",
+    "posterAlt": "Poster of the film River of Love",
+    "synopsis": "A lavish melodrama about forbidden love in Egyptian high society, adapted from Tolstoy's Anna Karenina and starring Faten Hamama and Omar Sharif.",
+    "wikiTitle": "River of Love (1960 film)",
+    "tmdbQuery": "River of Love"
+  },
+  {
+    "id": "al-mummia",
+    "title": "The Night of Counting the Years (Al-Mummia)",
+    "arabicTitle": "المومياء",
+    "year": 1969,
+    "director": "Shadi Abdel Salam",
+    "connection": "Egyptian film",
+    "poster": "/images/posters/al-mummia.svg",
+    "posterAlt": "Poster of the film The Night of Counting the Years",
+    "synopsis": "A slow, hushed drama set in Upper Egypt about a family guarding a secret tomb. Its long silences and wide landscapes suit a quiet evening.",
+    "wikiTitle": "The Night of Counting the Years",
+    "tmdbQuery": "The Night of Counting the Years"
+  }
+]
