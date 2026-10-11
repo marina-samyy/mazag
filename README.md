@@ -2,6 +2,9 @@
 
 Mazag is a mood-based discovery app for Egypt. Instead of asking *where* you want to go, it asks *how you feel*, then hands you a small curated bundle: **a place to visit, an Egyptian film (or a film set in Egypt) and a song to play**.
 
+- **Live demo:** https://YOUR-PROJECT.vercel.app
+- **Repository:** https://github.com/marina-samyy/mazag
+
 ## 1. The idea
 
 Most travel sites start with a list of cities and attractions. People often start from a feeling instead: "I want something quiet", "I miss the old days", "I need an adventure". Mazag turns that feeling into a concrete plan and a cultural experience (place + cinema + music), not just a destination.
@@ -64,9 +67,8 @@ Mood cards on the home page set `data-mood` on themselves, so each card previews
 mazag/
 ├── public/
 │   ├── favicon.svg
-│   ├── images/            moods/  places/  posters/   (generated SVG art, see IMAGES.md)
-│
-└── screenshots/          
+│   └── images/            moods/  places/  posters/   (generated SVG art, see IMAGES.md)
+├── screenshots/           screenshots of the app pages
 ├── src/
 │   ├── components/        Navbar, Footer, MoodCard, PlaceCard, MovieCard, MusicCard,
 │   │                      FavoriteButton, ImageWithFallback, PageTransition, ScrollToTop, WikipediaSummary
@@ -159,6 +161,7 @@ Attribution: This product uses the TMDB API but is not endorsed or certified by 
 Prerequisites: [Node.js](https://nodejs.org) 18 or newer and Git.
 
 ```bash
+git clone https://github.com/marina-samyy/mazag.git
 cd mazag
 npm install
 npm run dev
@@ -179,31 +182,31 @@ npm run preview    # serves the build locally to test it
 
 The project includes generated SVG illustrations (moods, places and film title cards) in `public/images/`, created by `tools/generate_images.py`. They are illustrations, not photographs, and the film "posters" are typographic title cards, not the official posters. To use real photos instead, see [IMAGES.md](IMAGES.md). If an image file is missing, a coloured placeholder is shown, so nothing looks broken.
 
+## 13. Screenshots
 
+### Home
+![Home](./screenshots/home.png)
 
-## 13. GitHub
+### Nostalgic mood
+![Nostalgic](./screenshots/nostalgic.png)
 
-```bash
-git init
-git add .
-git commit -m "Initial commit: Mazag"
-git branch -M main
-git remote add origin https://github.com/<your-username>/mazag.git
-git push -u origin main
-```
+### Adventurous mood
+![Adventurous](./screenshots/adventurous.png)
 
-Repository: `https://github.com/<your-username>/mazag`
+### Place details
+![Place details](./screenshots/place-details.png)
 
-## 14. Deploy on Vercel
+### Favorites
+![Favorites](./screenshots/favorites.png)
 
-1. Push the project to GitHub (above).
-2. Go to [vercel.com](https://vercel.com), sign in with GitHub and choose **Add New → Project**.
-3. Import the `mazag` repository. Vercel detects Vite automatically (Build command `npm run build`, Output directory `dist`).
-4. Open **Environment Variables** and add `VITE_TMDB_API_KEY` with your TMDB key (optional: without it the app uses Wikipedia posters).
-5. Click **Deploy**.
-6. Open the live URL, then open `/mood/calm` directly and refresh to confirm routing works (this is what `vercel.json` provides).
+### Mobile view
+![Mobile](./screenshots/mobile.png)
 
-Live demo: `https://<your-project>.vercel.app`
+## 14. Deployment
+
+The app is deployed on Vercel. `vercel.json` rewrites all routes to `index.html`, so direct links and page refresh work with React Router. The TMDB key is set as the environment variable `VITE_TMDB_API_KEY` in the Vercel project settings (see section 9).
+
+Live demo: https://YOUR-PROJECT.vercel.app
 
 ## 15. Limitations and future ideas
 
@@ -213,20 +216,6 @@ Live demo: `https://<your-project>.vercel.app`
 - Visitor information is general advice only; it is not live data.
 - Possible future work: search and filters, a map view with verified coordinates, an Arabic interface (RTL), user-created mood bundles, automated tests.
 
-## Manual testing checklist
-
-- [ ] `npm install` finishes without errors
-- [ ] `npm run dev` starts and the home page loads
-- [ ] `npm run build` succeeds and `npm run preview` works
-- [ ] All four mood pages load and each looks different
-- [ ] "Surprise me" opens a valid mood page
-- [ ] A place page opens from a place card and "Back to ..." returns to the mood
-- [ ] Add and remove favorites work, toasts appear, and favorites remain after refresh
-- [ ] An invalid URL such as `/abc` and an invalid mood such as `/mood/xyz` show the 404 design
-- [ ] The layout works at about 360px, 768px and 1280px with no sideways scrolling
-- [ ] No red errors in the browser console
-- [ ] Tab through the page: focus outlines are visible
-
 ## Credits
 
 - Place summaries and film posters/articles: [Wikipedia](https://www.wikipedia.org) (text under CC BY-SA).
@@ -234,3 +223,7 @@ Live demo: `https://<your-project>.vercel.app`
 - Song previews and cover art: Apple Music via the iTunes Search API.
 - Icons: [Lucide](https://lucide.dev). Fonts: Google Fonts. UI framework: Bootstrap.
 - Place and mood artwork: illustrations drawn by the script `tools/generate_images.py`.
+
+## Author
+
+Marina Samy
