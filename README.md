@@ -65,7 +65,8 @@ mazag/
 ├── public/
 │   ├── favicon.svg
 │   ├── images/            moods/  places/  posters/   (generated SVG art, see IMAGES.md)
-│   └── screenshots/       (add your screenshots here)
+│
+└── screenshots/          
 ├── src/
 │   ├── components/        Navbar, Footer, MoodCard, PlaceCard, MovieCard, MusicCard,
 │   │                      FavoriteButton, ImageWithFallback, PageTransition, ScrollToTop, WikipediaSummary
