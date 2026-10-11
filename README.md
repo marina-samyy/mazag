@@ -179,30 +179,9 @@ npm run preview    # serves the build locally to test it
 
 The project includes generated SVG illustrations (moods, places and film title cards) in `public/images/`, created by `tools/generate_images.py`. They are illustrations, not photographs, and the film "posters" are typographic title cards, not the official posters. To use real photos instead, see [IMAGES.md](IMAGES.md). If an image file is missing, a coloured placeholder is shown, so nothing looks broken.
 
-## 13. Screenshots
 
-### Home
-![Home](public/screenshots/home.png)
 
-### Mood pages
-![Nostalgic](public/screenshots/nostalgic.png)
-![Adventurous](public/screenshots/adventurous.png)
-![Romantic](public/screenshots/romantic.png)
-![Calm](public/screenshots/calm.png)
-
-### Place details
-![Place details](public/screenshots/place-details.png)
-
-### Favorites
-![Favorites](public/screenshots/favorites.png)
-
-### 404 page
-![404](public/screenshots/not-found.png)
-
-### Mobile view
-![Mobile](public/screenshots/mobile.png)
-
-## 14. GitHub
+## 13. GitHub
 
 ```bash
 git init
@@ -215,7 +194,7 @@ git push -u origin main
 
 Repository: `https://github.com/<your-username>/mazag`
 
-## 15. Deploy on Vercel
+## 14. Deploy on Vercel
 
 1. Push the project to GitHub (above).
 2. Go to [vercel.com](https://vercel.com), sign in with GitHub and choose **Add New → Project**.
@@ -226,7 +205,7 @@ Repository: `https://github.com/<your-username>/mazag`
 
 Live demo: `https://<your-project>.vercel.app`
 
-## 16. Limitations and future ideas
+## 15. Limitations and future ideas
 
 - Only four moods and a small curated dataset; more moods, places and films can be added in the JSON files.
 - Artwork is illustrated, not photographic; real photos can replace it (see IMAGES.md).
