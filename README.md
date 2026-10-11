@@ -2,7 +2,7 @@
 
 Mazag is a mood-based discovery app for Egypt. Instead of asking *where* you want to go, it asks *how you feel*, then hands you a small curated bundle: **a place to visit, an Egyptian film (or a film set in Egypt) and a song to play**.
 
-- **Live demo:** https://YOUR-PROJECT.vercel.app
+- **Live demo:** https://mazag-ruby.vercel.app
 - **Repository:** https://github.com/marina-samyy/mazag
 
 ## 1. The idea
