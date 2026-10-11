@@ -182,33 +182,15 @@ npm run preview    # serves the build locally to test it
 
 The project includes generated SVG illustrations (moods, places and film title cards) in `public/images/`, created by `tools/generate_images.py`. They are illustrations, not photographs, and the film "posters" are typographic title cards, not the official posters. To use real photos instead, see [IMAGES.md](IMAGES.md). If an image file is missing, a coloured placeholder is shown, so nothing looks broken.
 
-## 13. Screenshots
 
-### Home
-![Home](./screenshots/home.png)
 
-### Nostalgic mood
-![Nostalgic](./screenshots/nostalgic.png)
-
-### Adventurous mood
-![Adventurous](./screenshots/adventurous.png)
-
-### Place details
-![Place details](./screenshots/place-details.png)
-
-### Favorites
-![Favorites](./screenshots/favorites.png)
-
-### Mobile view
-![Mobile](./screenshots/mobile.png)
-
-## 14. Deployment
+## 13. Deployment
 
 The app is deployed on Vercel. `vercel.json` rewrites all routes to `index.html`, so direct links and page refresh work with React Router. The TMDB key is set as the environment variable `VITE_TMDB_API_KEY` in the Vercel project settings (see section 9).
 
 Live demo: https://YOUR-PROJECT.vercel.app
 
-## 15. Limitations and future ideas
+## 14. Limitations and future ideas
 
 - Only four moods and a small curated dataset; more moods, places and films can be added in the JSON files.
 - Artwork is illustrated, not photographic; real photos can replace it (see IMAGES.md).
